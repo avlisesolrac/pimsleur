@@ -1,0 +1,75 @@
+﻿hello
+goodbye
+goodbye, ma'am
+how are you?
+i'm fine, thanks
+and you?
+i'm fine, thank you
+i don't understand english
+oh yes
+you understand very well
+are you brazilian?
+yes, miss
+are you american?
+i'm american
+i'm not american
+do you understand english?
+yes, but not very well
+do you understand portuguese, miss?
+i don't understand portuguese
+i'm sorry, i don't understand portuguese
+you understand
+you speak
+i speak
+i speak a little
+but i don't understand
+i don't speak
+i don't speak very well
+i don't understand
+i'm not brazilian
+i'm sorry, i don't understand
+you don't understand portuguese?
+i understand a little
+and i speak a little
+i understand a little and i speak a little
+but, i don't speak very well
+i'm not american
+and you?
+yes, i'm american
+and i speak english
+but i don't speak portuguese
+i'm sorry, i don't speak portuguese
+please
+second
+fifty
+fifty-second
+fifty-second street
+east fifty-second street
+park street
+east park street
+where is
+where is east fifty-second street, please?
+please
+where is park street?
+avenue
+park avenue
+where is park avenue?
+here
+it is here
+it's here
+it's here, sir
+is it here?
+yes, it's here
+is it here?
+no, it's not here
+it's not here
+over ther
+it's over ther
+it's not over ther
+it's here, sir
+park avenue is here
+where is east fifty-second street, please?
+is it here?
+it's not here, sir
+it's over there
+and park avenue is here
