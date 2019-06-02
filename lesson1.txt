@@ -1,35 +1,59 @@
-﻿excuse me
+﻿excuse me, miss
+do you understand portuguese?
+no sir, i don't understand portuguese
+i understand a little english
+are you brazilian?
+yes, miss
+
+excuse me
 portuguese
 understand
 you understand
 you
 you understand portuguese
-do
 do you understand?
 do you understand portuguese?
 no
 no, sir
 sir
 excuse me, sir
-i
 i understand
 i understand portuguese
 i understand, you understand
+do you understand portuguese, miss?
 i don't understand
+don't
 i don't understand portuguese
 no, i don't understand
 english
 i understand english
 i don't understand english
 you understand english
+do you understand english?
 a little
 i understand a little
-a little english
 i understand a little english
 brazilian
 you are
+you are brazilian
 are you brazilian?
-do you understand english?
 yes
 miss
 yes, miss
+are you brazilian, man?
+i don't understand portuguese
+i understand a little english
+
+excuse me, miss
+do you understand?
+do you understand portuguese?
+no, sir
+i don't understand portuguese
+do you understand english, sir?
+i understand a little
+are you brazilian?
+yes, miss
+do you understand portuguese, sir?
+yes miss, i understand portuguese
+do you understand english?
+A little, i understand a little english
