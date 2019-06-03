@@ -1,4 +1,13 @@
-﻿english
+﻿hello, sir
+how are you?
+fine thanks
+oh! you understand english?
+yes, a little not very well
+are you brazilian?
+yes
+but you understand english very well
+
+english
 i understand english
 a little
 i understand a little english
@@ -8,31 +17,35 @@ i don't understand
 excuse me
 hello
 how are you?
-i'm fine thanks
+i'm fine, thanks
 thank you
 thank you, ma'am
 thanks
 goodbye
+fine thanks
 i don't understand english
 do you understand english?
+are you brazilian, sir?
 yes, i'm brazilian
 are you brazilian, ma'am?
-no, i'm american
+american
+i'm american
 do you understand portuguese, ma'am?
+not very well
 i'm not american
 and you?
-i'm brazilian and you?
-you're brazilian
+i'm brazilian, and you?
+you're brazilian sir
 you're not brazilian
-but i understand
+i'm not american
+but
 but i understand english
-i understand a little, but not very well
+but not very well
 are you american, ma'am?
-are you brazilian?
-i'm sorry
 no, i'm sorry
-no, i'm sorry, i don't understand portuguese
+i don't understand portuguese
 please
+i'm american
 but i understand portuguese
 no, ma'am
 i don't understand
@@ -45,17 +58,24 @@ i'm brazilian, and you?
 are you american?
 i'm sorry, i don't understand
 please, miss
+how are you?
+i'm fine, thanks
 excuse me, sir
 please, sir
 are you brazilian?
 yes, miss
 i don't understand portuguese
-i understand a little, but not very well
+i understand a little
+but not very well
+i understand a little english
+goodbye
+
 miss
 yes
 hello, miss
+hello, sir
 how are you?
-i'm fine, thanks, and you sir?
+i'm fine, thanks. and you, sir?
 i'm fine, thanks
 excuse me
 do you understand portuguese?
@@ -65,12 +85,12 @@ are you brazilian?
 yes, miss. i'm brazilian
 but i understand english
 a little
-but not very well
+not very well
 but you understand english very well
-thanks, miss
 i think you speak english very well
 i'm sorry, i don't understand
 you speak very well
-thank you, miss
-good bye, sir
-good bye, miss
+thanks miss
+please, miss
+goodbye, sir
+goodbye, miss
