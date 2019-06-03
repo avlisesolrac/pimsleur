@@ -1,3 +1,11 @@
+﻿excuse me, sir
+do you understand english?
+a little
+are you brazilian?
+yes, do you understand portuguese?
+no , i don't
+I don't understand portuguese
+
 portuguese
 english
 i understand
@@ -9,7 +17,7 @@ do you understand?
 do you understand english?
 do you understand portuguese?
 no, sir
-no, i don't understand
+i don't understand
 i don't understand portuguese
 i don't understand english
 i understand a little
@@ -19,18 +27,56 @@ excuse me
 excuse me, miss
 are you brazilian?
 yes, you are brazilian
-you're
+you are, you're
+you're brazilian
 yes, miss
 i'm brazilian
 you're brazilian
 hello, miss
-ma'am
 hello, ma'am
+hello, sir
 how are you?
 i'm fine, thanks
-hello, sir
-goodbye
+fine, thanks
 goodbye, ma'am
+oh! you understand english
+yes, i understand english
 very well
 i understand very well
+how are you, ma'am?
+yes, i understand portuguese
+i understand very well
 not very well
+
+hello, sir
+hello, miss
+how are you, sir?
+i'm fine, thanks
+are you brazilian?
+yes, i'm brazilian
+do you understand english?
+a little
+i understand a little english
+you understand english very well
+thanks, miss
+goodbye, sir
+goodbye, miss
+
+
+1
+2
+3
+2,3,4,5
+2,3,4,5,6,7
+2,3,4,5,6,7,8,9
+2,3,4,5,6,7,8,9,10,11
+2,3,4,5,6,7,8,9,10,11,12,13
+2,3,4,5,6,7,8,9,10,11,12,13,14,15
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
+2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
