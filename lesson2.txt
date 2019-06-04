@@ -2,9 +2,10 @@
 do you understand english?
 a little
 are you brazilian?
-yes, do you understand portuguese?
-no , i don't
-I don't understand portuguese
+yes
+do you understand portuguese, miss?
+no, i don't
+i don't understand portuguese
 
 portuguese
 english
@@ -21,62 +22,94 @@ i don't understand
 i don't understand portuguese
 i don't understand english
 i understand a little
+i don't understand english
 i understand portuguese
 i understand a little portuguese
+a little portuguese
+no, sir
 excuse me
 excuse me, miss
+i understand english
+a little
+i understand a little english
 are you brazilian?
 yes, you are brazilian
-you are, you're
+you're
 you're brazilian
 yes, miss
 i'm brazilian
 you're brazilian
+i'm brazilian
+do you understand english?
+do you understand portuguese?
+no, sir
+i don't understand
+hello
 hello, miss
+ma'am
 hello, ma'am
 hello, sir
 how are you?
+you are
+hello, ma'am
+hello, miss
+how are you?
+i'm fine, thanks
+i'm brazilian
+i'm fine, thanks
+hello, sir
+how are you, sir?
 i'm fine, thanks
 fine, thanks
+how are you?
+fine, thanks
+i'm fine
+goodbye
+hello
+how are you?
+i'm fine, thanks
 goodbye, ma'am
+i don't understand
+are you brazilian?
+yes, ma'am
+goodbye, ma'am
+excuse me, miss
+do you understand?
+yes, sir
+i understand
 oh! you understand english
 yes, i understand english
-very well
 i understand very well
 how are you, ma'am?
+i'm fine, thanks
+i don't understand
+do you understand portuguese?
 yes, i understand portuguese
 i understand very well
+i understand english
+i understand a little english
+i'm brazilian
+do you understand english?
+a little
 not very well
+i understand a little
+not very well
+i understand a little english
+a little
+not very well
+hello
+goodbye
 
 hello, sir
 hello, miss
 how are you, sir?
+fine, thanks
 i'm fine, thanks
 are you brazilian?
 yes, i'm brazilian
 do you understand english?
-a little
-i understand a little english
+a little, i understand a little english
 you understand english very well
 thanks, miss
-goodbye, sir
-goodbye, miss
-
-
-1
-2
-3
-2,3,4,5
-2,3,4,5,6,7
-2,3,4,5,6,7,8,9
-2,3,4,5,6,7,8,9,10,11
-2,3,4,5,6,7,8,9,10,11,12,13
-2,3,4,5,6,7,8,9,10,11,12,13,14,15
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29
-2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+goodbye
+goodbye
