@@ -1,4 +1,4 @@
-Data	Aulas	Status	
+Data		Aulas	Status	
 01/06/2019	1	Completo	
 02/06/2019	2	Completo	
 03/06/2019	3	Completo	
