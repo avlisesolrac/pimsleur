@@ -1,17 +1,28 @@
-﻿hello
+﻿excuse me, miss
+are you american?
+yes i'm american, and you?
+i'm brazilian
+but you understand english
+a little not very well
+oh! yes, you speak english very well
+
+hello
+hello, sir
 goodbye
 goodbye, ma'am
 how are you?
-i'm fine, thanks
+fine, thanks
 and you?
 i'm fine, thank you
 i don't understand english
-oh yes
+oh, yes
 you understand very well
 are you brazilian?
 yes, miss
 are you american?
-i'm american
+you're not brazilian
+i'm brazilian
+are you american?
 i'm not american
 do you understand english?
 yes, but not very well
@@ -20,7 +31,6 @@ i don't understand portuguese
 i'm sorry, i don't understand portuguese
 you understand
 you speak
-i speak
 i speak a little
 but i don't understand
 i don't speak
@@ -31,8 +41,8 @@ i'm sorry, i don't understand
 you don't understand portuguese?
 i understand a little
 and i speak a little
-i understand a little and i speak a little
-but, i don't speak very well
+but
+i don't speak very well
 i'm not american
 and you?
 yes, i'm american
@@ -43,33 +53,66 @@ please
 second
 fifty
 fifty-second
+street
 fifty-second street
+east
 east fifty-second street
+park
 park street
 east park street
-where is
-where is east fifty-second street, please?
+where?
+where is?
+where is east fifty-second street?
 please
 where is park street?
+where is park street, please?
 avenue
 park avenue
 where is park avenue?
+where is park avenue, please?
+here
+it is
 here
 it is here
+it's here
+where is east fifty-second street, please?
 it's here
 it's here, sir
 is it here?
 yes, it's here
 is it here?
 no, it's not here
-it's not here
-over ther
-it's over ther
-it's not over ther
-it's here, sir
+over there
+it's over there
+it's not over there
 park avenue is here
 where is east fifty-second street, please?
 is it here?
-it's not here, sir
+it's not here
+it's not, sir
 it's over there
 and park avenue is here
+
+hello, sir
+hello, miss
+how are you?
+i'm fine, thanks, and you?
+i'm fine
+are you brazilian?
+yes, i'm brazilian
+i'm american, do you understand english?
+yes, i understand english
+a little not very well
+but you understand english very well
+thank you
+excuse me, where is east fifty-second street?
+it's here, miss
+and park avenue?
+it's over there
+east fifty-second stree is not over there
+park avenue is over there
+but east fifty-second street is here
+do you know where there is good bar strong?
+i'm sorry, i don't understand
+goodbye, miss
+goodbye
