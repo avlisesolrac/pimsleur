@@ -1,65 +1,66 @@
-﻿hello, sir
-how are you?
-fine thanks
-oh! you understand english?
-yes, a little not very well
-are you brazilian?
-yes
-but you understand english very well
+﻿
+ hello, sir
+ how are you?
+ fine, thanks
+ oh! you understand english
+ yes, a little not very well
+ are you brazilian?
+ yes
+ but you understand english very well
 
-english
-i understand english
-a little
+ english
+ i understand english
+ a little
+ i understand a little english
+ i understand a little
+ not very well
+ i don't understand
+ excuse me
+ excuse me, i don't understand
+ hello
+ how are you?
+ i'm fine, thanks
+ thank you
+ thank you, ma'am
+ thanks
+ hello
+ fine, thanks
+ i'm fine, thanks
+ i don't understand english
+ do you understand english?
 i understand a little english
-i understand a little
-not very well
-i don't understand
-excuse me
-hello
-how are you?
-i'm fine, thanks
-thank you
-thank you, ma'am
-thanks
-goodbye
-fine thanks
-i don't understand english
-do you understand english?
 are you brazilian, sir?
 yes, i'm brazilian
 are you brazilian, ma'am?
 american
 i'm american
 do you understand portuguese, ma'am?
-not very well
+a little
 i'm not american
 and you?
-i'm brazilian, and you?
-you're brazilian sir
-you're not brazilian
+you're brazilian
+no, i'm american
+you're not american
+i'm brazilian
 i'm not american
-but
 but i understand english
-but not very well
-are you american, ma'am?
-no, i'm sorry
-i don't understand portuguese
+do you understand portuguese?
+i'm sorry, i don't understand portuguese
+no, i'm sorry, i don't understand portuguese
 please
-i'm american
 but i understand portuguese
-no, ma'am
-i don't understand
-i'm sorry, i don't understand english
+no, ma'am, i don't understand english
 i'm not brazilian
-you don't understand portuguese
+you don't understand portuguese?
 you're not brazilian, miss
 you're not american, sir
-i'm brazilian, and you?
-are you american?
 i'm sorry, i don't understand
 please, miss
 how are you?
+fine, thanks
 i'm fine, thanks
+excuse me
+thanks
 excuse me, sir
 please, sir
 are you brazilian?
@@ -70,27 +71,26 @@ but not very well
 i understand a little english
 goodbye
 
-miss
+miss, miss
 yes
 hello, miss
 hello, sir
 how are you?
-i'm fine, thanks. and you, sir?
-i'm fine, thanks
+i'm fine thanks, and you, sir?
 excuse me
 do you understand portuguese?
 no, sir
+i don't understand portuguese
 i'm sorry, i don't understand portuguese
 are you brazilian?
-yes, miss. i'm brazilian
+yes, miss, i'm brazilian
 but i understand english
 a little
 not very well
-but you understand english very well
+but you understand 
 i think you speak english very well
 i'm sorry, i don't understand
 you speak very well
-thanks miss
 please, miss
 goodbye, sir
 goodbye, miss
